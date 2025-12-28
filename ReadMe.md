@@ -1,3 +1,11 @@
+> ⚠️ **Fork Notice**
+>
+> This project is a fork of **Atoll**.
+> This fork exists for personal use.
+>
+> Source code is available to recipients in accordance with the GPL-3.0 license.
+
+
 <p align="center">
   <img src=".github/assets/atoll-logo.png" alt="Atoll logo" width="120">
 </p>
